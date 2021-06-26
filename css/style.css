@@ -128,20 +128,15 @@ header {
 
 .con_2 {
 	overflow: hidden;
-	padding: 50px 10px;
-}
-
-.con_2 a {
-	text-decoration: none;
-	color: black;
+	padding: 1%;
 }
 
 
 .c_img {
 	float: left;
-	width: 29%;
-	margin: 9px 20px 9px 0;
-	padding: 0 18px;
+	width: 27.7%;
+    margin: 4% 2% 4% 0;
+	padding: 0 2.03%;
 
 }
 
@@ -154,9 +149,9 @@ header {
 
 
 .model{
-	width: 80%;
+	width: 75%;
 	margin: 0 auto;
-	padding-top: 70px ;
+	padding-top: 18% ;
 }
 
 .model img {
@@ -167,8 +162,8 @@ header {
 
 .c_img p {
 	text-align: center;
-	padding: 3px 0 60px 0;
-	margin: 0 22px;
+	padding-bottom: 18%;
+	margin: 0 6%;
 }
 
 
@@ -413,16 +408,9 @@ address a:hover{
 	float: right;
 	width: 39%;
 	min-height: 41.5px;
+	color: white;
 	background-color: #AC1734;
 	border-style: none;
-}
-.subs a{
-	width: 100%;
-	text-decoration: none;
-	color: white;
-	text-align: center;
-
-
 }
 
 
